@@ -1,0 +1,10 @@
+.background-color{
+    background-color: #e44646;
+    color: white;
+}
+.secondary-color{
+    color: #082032;
+}
+#search-button:hover{
+    background-color: #082032;
+}
